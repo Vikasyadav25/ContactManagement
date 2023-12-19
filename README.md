@@ -5,9 +5,13 @@ I am going to design an API for the Contact Management.
 1. Clone or download this repository to your local machine.
 2. git clone https://github.com/Vikasyadav25/ContactManagement
 3. change the id , password and database name in application.property file as your mysql credential.
-spring.datasource.url=jdbc:mysql://localhost:3306/project1
-spring.datasource.username=root
-spring.datasource.password=Vikasyadav6@
+   
+#### spring.datasource.url=jdbc:mysql://localhost:3306/project1
+
+#### spring.datasource.username=root
+
+#### spring.datasource.password=Vikasyadav6@
+
 4. Now run the server. 
 
 # Task
